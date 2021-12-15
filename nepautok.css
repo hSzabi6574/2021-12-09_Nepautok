@@ -30,5 +30,8 @@ a{
 	 color: chocolate;
  }
  .img-box{
-	 
+    width: 200px;
+	background-color: #eee;
+	padding: 10px;
+	border: 1px #999 solid;
  }
